@@ -7,5 +7,3 @@
 ## 💡 I enjoy working on web development projects and continuously expanding my knowledge in cloud technologies, automation, and modern IT infrastructure.
 
 ## 🌐 Always open to learning, collaborating, and exploring new opportunities.
-
--->
